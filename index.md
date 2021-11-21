@@ -57,4 +57,4 @@ Mods Serveurs
 *   [Galerie](https://xairmi.com/support-us)
 *   [Etat des services](https://xairmi.com/social-networks)
 
- [![Internal Error](Xairstone.png)](https://xairmi.com)
+ [![Internal Error](xairstone.png)](https://xairstone.com)
